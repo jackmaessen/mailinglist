@@ -17,4 +17,6 @@
 - For subscribing: use **form.php**
 - Admin control: **admin.php**
 
-### Demo: http://newsletter.webprofis.nl/admin.php?all_subscribers
+### Demo: 
+Subscribe form: http://newsletter.webprofis.nl/form.php
+Admin control: http://newsletter.webprofis.nl/admin.php?all_subscribers
