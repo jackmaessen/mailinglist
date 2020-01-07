@@ -1,6 +1,6 @@
 # Simple PHP mailinglist
 
-## A simple mailinglist for sending newsletters in flat-file database
+## A simple mailinglist for sending newsletters; data stored in flat-file database
 ### Built with Tinymce texteditor
 
 - Subscribe to newsletter with confirmation via email (double-opt-in)
